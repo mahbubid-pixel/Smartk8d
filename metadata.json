@@ -1,0 +1,6 @@
+{
+  "name": "SmartKids",
+  "description": "Interactive reading, AI audio narration, assessments, and parent dashboard for children.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
